@@ -98,6 +98,8 @@ Test results will be displayed in the console as well as Extent Report will be g
 ## Acknowledgements 🤝🏻
 
  - Thanks to [JSONPlaceHolder](https://jsonplaceholder.typicode.com/) for providing the API for Testing
+ - Thanks to [EmojiDb](https://emojidb.org/getting-started-emojis?user_typed_query=1&utm_source=user_search/) for the Emoticons
+ - Thanks to [ReadMe.so](https://readme.so/editor) for the ReadMe Editor
 
 
 ## Authors
