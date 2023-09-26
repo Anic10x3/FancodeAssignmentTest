@@ -56,9 +56,9 @@ Navigate to src/test/java/com.assignment.fancode > FancodeTest.java > Right Clic
   GET /users
 ```
 
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-|           | `string` | **This api fetches the users present in the system**.  |
+| Description                |
+| :------------------------- |
+| **This endpoint fetches the users present in the system**.  |
 
 #### Get item
 
@@ -66,9 +66,9 @@ Navigate to src/test/java/com.assignment.fancode > FancodeTest.java > Right Clic
   GET /todos
 ```
 
-| Parameter | Type     | Description                       |
-| :-------- | :------- | :-------------------------------- |
-|       | `int` | **This endpoint fetches all the todos in the system** |
+| Description                       |
+| :-------------------------------- |
+ **This endpoint fetches all the todos in the system** |
 
 ### Test Models 🧪
 com.assignment.model : This contains the models for User and TodoResponse
