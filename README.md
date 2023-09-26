@@ -16,7 +16,7 @@ Before using this framework, ensure that you have following installed on you mac
 
 1. Clone the repository on local machine
   ```console
-git clone <repo>
+git clone https://github.com/Anic10x3/FancodeAssignmentTest.git
 ```
 2. Open the project in your preferred IDE
 
