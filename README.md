@@ -50,7 +50,7 @@ Navigate to src/test/java/com.assignment.fancode > FancodeTest.java > Right Clic
 
 ##### Endpoints used
 
-#### Get all items
+#### Get all users
 
 ```https://jsonplaceholder.typicode.com
   GET /users
@@ -60,7 +60,7 @@ Navigate to src/test/java/com.assignment.fancode > FancodeTest.java > Right Clic
 | :------------------------- |
 | **This endpoint fetches the users present in the system**.  |
 
-#### Get item
+#### Get todo
 
 ```https://jsonplaceholder.typicode.com
   GET /todos
